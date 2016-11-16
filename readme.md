@@ -1,8 +1,8 @@
-# 
+# Automated GET request with curl (Bash script)
 
 ## Synopsis
 
-A Bash script that sends GET requests to a user-specified server/port/subfolder with random integers, with values in  [100,500], using ```curl```.
+A Bash script that sends GET requests to a user-specified server/port/subdirectory with random integers, with values in  [100,500] every 5 seconds, using ```curl```.
 
 ## Scenario
 
